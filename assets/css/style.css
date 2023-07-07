@@ -208,4 +208,13 @@ footer>p {
     .proj>img {
         width: 80%;
     }
+
+    .intro {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .intro>p {
+        width: 100%;
+    }
 }
